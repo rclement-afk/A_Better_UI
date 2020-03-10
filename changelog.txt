@@ -1,0 +1,17 @@
+v24.7
+*Added Version Number to About Page
+*Fixed the Taskbar showing while keyboard pops up.
+*Deleted the program start overlap from the /etc/init.d/botui
+*WiFi renamed to Wombat from Wallaby
+
+v24.9
+*Camera Channel configuration spectrum bar is bigger (Camera output is shrinked a little).
+*Library files updates (display_printf and wait_for_light)
+*Removed Battery percentage (We only have the battery symbol which changes color according to the charge range)
+*Camera channel font is increased
+*STOP button is currently functioning in the console page.
+*Added a shortcut on the Desktop to launch the BOTUI (named as KIPR UI).
+
+v25.2
+*Update feature fixed to recognize the Wombat update folder.
+*Backup, Restore and Clear option now works(Inside the Settings menu).
